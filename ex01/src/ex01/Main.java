@@ -11,7 +11,7 @@ public class Main implements sample {
 	}
 	
 	public void crying() {
-		System.out.println("Hollo world!!!");
+		System.out.println("Hollo world!!!!!!");
 	}
 	public void show() {
 		System.out.println("OK!!!!");

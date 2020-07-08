@@ -1,0 +1,18 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<form name="regiserFrm" action="register.test" method="post">
+		番号：<input type="text" name="num" size="10"><br />
+		名前：<input type="text" name="name" size="10"><br />
+		電話：<input type="text" name="tel" size="10"><br />
+		住所：<input type="text" name="addr" size="15"><br />
+		<input type="submit" value="JOIN">
+		</form>
+</body>
+</html>
